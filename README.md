@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**aya-albdewi/aya-albdewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aya 👋
 
-Here are some ideas to get you started:
+🎓 Third-year Information Engineering student at Homs University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm passionate about Front-End Development and building web applications.
+
+🌱 Currently learning React and improving my skills in Vue.js.
+
+🛠️ **Technologies & Tools**
+
+- HTML & CSS
+- JavaScript
+- Vue.js
+- Pinia
+- React
+- Bootstrap
+- Git & GitHub
+
+🚀 **Featured Project**
+
+- [Habit Tracker](https://github.com/aya-albdewi/habit-tracker) — A habit-tracking application built with Vue.js.
+
+📫 **Connect with me**
+
+- [GitHub](https://github.com/aya-albdewi)
+
+---
+
+*Always learning, building, and improving.*
+
+
