@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal Front-End projects and exploring how to build useful web applications.<br><br>👯 I’m looking to collaborate on beginner-friendly projects, improve my teamwork skills, and learn from other developers.<br><br>🤝 I’m looking for guidance on improving my Front-End skills and building better user interfaces.<br><br>🌱 I’m currently learning React.js after completing my Vue.js learning journey, including Pinia and Vue Router.<br><br>💬 Ask me about JavaScript, Vue.js, C++ , and React.<br><br>⚡ Fun fact: I enjoy turning ideas into projects and learning something new with every line of code.
+🔭 I’m currently working on personal Front-End projects and exploring how to build useful web applications.<br>👯 I’m looking to collaborate on beginner-friendly projects, improve my teamwork skills, and learn from other developers.<br>🤝 I’m looking for guidance on improving my Front-End skills and building better user interfaces.<br>🌱 I’m currently learning React.js after completing my Vue.js learning journey, including Pinia and Vue Router.<br>💬 Ask me about JavaScript, Vue.js, C++ , and React.<br>⚡ Fun fact: I enjoy turning ideas into projects and learning something new with every line of code.
 
 
 ## 🌐 Socials:
