@@ -1,5 +1,11 @@
 # 💫 About Me:
-Building my Front-End development skills and personal projects.<br>Beginner-friendly web development projects.<br>Improving my React skills and writing clean, maintainable code.<br>React.js, JavaScript, and modern Front-End development.<br>Vue.js, my Habit Tracker project, and my Front-End learning journey.
+Hi, I'm Aya 👋
+
+🎓 Third-year Information Engineering student at Homs University.
+
+💻 Interested in Front-End Development and building web applications.
+
+🌱 Currently learning React and strengthening my JavaScript skills.
 
 
 # 💻 Tech Stack:
